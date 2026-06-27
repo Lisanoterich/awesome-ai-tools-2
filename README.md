@@ -1024,6 +1024,7 @@ A curated list of awesome AI tools
 - [PimEyes](https://pimeyes.com) - Explore digital footprints with AI-driven facial recognition search.. [Paid]
 - [Findr](https://www.usefindr.com) - Internal search platform that lets you find any document, link, and information lightning fast using a unified search bar.. [Freemium]
 - [Helloii](https://chromewebstore.google.com) - Elevate your online searches with AI-powered conversational queries.. [Free]
+- [NoteRich](https://noterich.com) - AI-powered note-taking with built-in RAG search. Import documents, natural language query, 41 languages. [Freemium]
 
 
 ## Text Generators
